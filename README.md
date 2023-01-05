@@ -195,7 +195,7 @@ Onboard Device
 	Bus Address: 0000:00:1f.6
 ```
 ```
-╭─   ~                                                                                                                                                                                                                                     
+╭─ minerodo@minerodo-pc ~                                                                                                                                                                                                                                     
 ╰─❯ lsmem
 RANGE                                  SIZE  STATE REMOVABLE  BLOCK
 0x0000000000000000-0x00000000afffffff  2.8G online       yes   0-21

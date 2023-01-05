@@ -194,3 +194,14 @@ Onboard Device
 	Type Instance: 1
 	Bus Address: 0000:00:1f.6
 ```
+```
+╭─   ~                                                                                                                                                                                                                                     
+╰─❯ lsmem
+RANGE                                  SIZE  STATE REMOVABLE  BLOCK
+0x0000000000000000-0x00000000afffffff  2.8G online       yes   0-21
+0x0000000100000000-0x0000000437ffffff 12.9G online       yes 32-134
+
+Memory block size:       128M
+Total online memory:    15.6G
+Total offline memory:      0B
+```

@@ -69,15 +69,3 @@
         }
     ]
 }
-
-<details>
-<summary>Spoiler: SNB connectors</summary>
-
-Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
-SSE: SSE4.2
-SSSE3: Supported
-Cores: 2
-Threads: 4
-Codename: Skylake
-
-</details>

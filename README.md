@@ -2,7 +2,7 @@
 
 This is an OpenCore EFI folder made for a HP ProDesk 400 G3 (A bit more like G2.5) SFF
 
-Might as well work with later/diferent models with some edits (Once It Boots As of January 1 2022)
+Might as well work with later/diferent models with some edits (Once It Boots As of January 5 2023)
 
 # OCSysInfo Output
 <details>

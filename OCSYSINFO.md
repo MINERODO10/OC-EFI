@@ -1,5 +1,6 @@
 <details>
   <summary>CPU</summary>
+  
   - Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz
     - SSE: SSE4.2
     - SSSE3: Supported
@@ -10,12 +11,14 @@
 
 <details>
   <summary>Motherboard</summary>
+  
   - Model: 8062
   - Vendor: HP
 </details>
 
 <details>
   <summary>GPU</summary>
+  
   - HD Graphics 530
     - Device ID: 0x1912
     - Vendor: 0x8086
@@ -25,6 +28,7 @@
 
 <details>
   <summary>Network</summary>
+  
   - RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
     - Device ID: 0x8168
     - Vendor: 0x10ec
@@ -34,6 +38,7 @@
 
 <details>
   <summary>Audio</summary>
+  
   - 100 Series/C230 Series Chipset Family HD Audio Controller
     - Device ID: 0xa170
     - Vendor: 0x8086
@@ -44,6 +49,7 @@
 
 <details>
   <summary>Storage</summary>
+  
   - Mass Storage Device
     - Type: Hard Disk Drive (HDD)
     - Connector: SCSI

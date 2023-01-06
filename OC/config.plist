@@ -1002,44 +1002,6 @@
 		<key>WriteFlash</key>
 		<true/>
 	</dict>
-	<key>PlatformInfo</key>
-	<dict>
-		<key>Automatic</key>
-		<true/>
-		<key>CustomMemory</key>
-		<false/>
-		<key>Generic</key>
-		<dict>
-			<key>AdviceFeatures</key>
-			<false/>
-			<key>MLB</key>
-			<string>C026393034NGPF7CB</string>
-			<key>MaxBIOSVersion</key>
-			<false/>
-			<key>ProcessorType</key>
-			<integer>0</integer>
-			<key>ROM</key>
-			<data>JPCUkm5U</data>
-			<key>SpoofVendor</key>
-			<true/>
-			<key>SystemProductName</key>
-			<string>iMac17,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02SGRY1GG7L</string>
-			<key>SystemUUID</key>
-			<string>EDF11CC1-4A49-4BAD-9B6C-6104FC9322F6</string>
-		</dict>
-		<key>UpdateDataHub</key>
-		<true/>
-		<key>UpdateNVRAM</key>
-		<true/>
-		<key>UpdateSMBIOS</key>
-		<true/>
-		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
-		<key>UseRawUuidEncoding</key>
-		<false/>
-	</dict>
 	<key>UEFI</key>
 	<dict>
 		<key>PlatformInfo</key>
@@ -1050,26 +1012,26 @@
 			<false/>
 			<key>Generic</key>
 			<dict>
-				<key>AdviseFeatures</key>
+				<key>AdviceFeatures</key>
 				<false/>
 				<key>MLB</key>
-				<string>M0000000000000001</string>
+				<string>C026393034NGPF7CB</string>
 				<key>MaxBIOSVersion</key>
 				<false/>
 				<key>ProcessorType</key>
 				<integer>0</integer>
 				<key>ROM</key>
-				<data>ESIzRFVm</data>
+				<data>JPCUkm5U</data>
 				<key>SpoofVendor</key>
 				<true/>
 				<key>SystemMemoryStatus</key>
 				<string>Auto</string>
 				<key>SystemProductName</key>
-				<string>iMac19,1</string>
+				<string>iMac17,1</string>
 				<key>SystemSerialNumber</key>
-				<string>W00000000001</string>
+				<string>C02SGRY1GG7L</string>
 				<key>SystemUUID</key>
-				<string>00000000-0000-0000-0000-000000000000</string>
+				<string>EDF11CC1-4A49-4BAD-9B6C-6104FC9322F6</string>
 			</dict>
 			<key>UpdateDataHub</key>
 			<true/>
